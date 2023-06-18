@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h3>Few Thing About Me:</h3>
 💻 I’m currently working on my new fullbody fps game.<br>
 🌱 I’m currently learning more about unity and c#.<br>
 🎓 I have finished IT school.<br>
