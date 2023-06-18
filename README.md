@@ -16,8 +16,7 @@
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kosciach&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kosciach&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kosciach&theme=dark&hide_border=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kosciach&icon=5&color=1)](https://visitcount.itsvg.in)
