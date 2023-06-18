@@ -1,4 +1,4 @@
-<h3>Few Thing About Me:</h3>
+### <h3>Few Thing About Me:</h3>
 💻 I’m currently working on my new fullbody fps game.<br>
 🌱 I’m currently learning more about unity and c#.<br>
 🎓 I have finished IT school.<br>
@@ -6,8 +6,6 @@
 📅 I use unity everyday.<br>
 ⭐ Except game dev I love star wars.<br>
 ⚡ Fun fact: Failing is the best way to learn.<br>
-
-### Sample H3
 
 ## 🌐 Socials:
 <a href="https://www.reddit.com/user/Kosciaszek">
