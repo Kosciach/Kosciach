@@ -46,11 +46,6 @@
 
 ---
 
-
----
----
----
----
 <p>
     <h3 align="center">Few of my projects</h3>
         <h4 align="center">BlueVRed</h4>
@@ -122,3 +117,25 @@ One of the biggest features are abilities which player has a chance to get upon 
     Previously I have begun to create 2 similar games with the same name and concept, but they were typical unfinished projects, both of these games taught me a lot.
     I have uploaded first video of it to my youtube channel and created reddit post where the game can be seen.
 </p>
+
+
+
+## My Unity Game Projects
+
+| - |
+|---|
+| ![Game 1](/path/to/game1-screenshot.png) |
+| Game 1 Title |
+| Description of Game 1. |
+
+| - |
+|---|
+| ![Game 2](/path/to/game2-screenshot.png) |
+| Game 2 Title |
+| Description of Game 2. |
+
+| - |
+|---|
+| ![Game 3](/path/to/game3-screenshot.png) |
+| Game 3 Title |
+| Description of Game 3. |
