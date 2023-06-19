@@ -76,3 +76,12 @@
     It felt really good to create something nice, and so I begin to make games like breakout, catch, tic-tac-toe, rock-paper-scissors and even my own pou version that I sometimes play even that it is unfinished.
 </p>
 
+
+<p>
+    <h4>Why didn't I use github from the start?</h4>
+</p>
+
+
+<p>
+    <h4>What is my current project?</h4>
+</p>
