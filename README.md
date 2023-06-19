@@ -119,23 +119,15 @@ One of the biggest features are abilities which player has a chance to get upon 
 </p>
 
 
-
 ## My Unity Game Projects
 
-| - |
-|---|
-| ![Game 1](/path/to/game1-screenshot.png) |
-| Game 1 Title |
-| Description of Game 1. |
+<div style="border-left: 1px solid black; height: 100%; position: absolute; left: 50%; transform: translateX(-50%);"></div>
 
-| - |
-|---|
-| ![Game 2](/path/to/game2-screenshot.png) |
-| Game 2 Title |
-| Description of Game 2. |
+#### Game 1 Title
+Description of Game 1.
 
-| - |
-|---|
-| ![Game 3](/path/to/game3-screenshot.png) |
-| Game 3 Title |
-| Description of Game 3. |
+#### Game 2 Title
+Description of Game 2.
+
+#### Game 3 Title
+Description of Game 3.
