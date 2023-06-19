@@ -46,7 +46,4 @@
 
 #### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kosciach&theme=dark&hide_border=false)
-
 [![](https://visitcount.itsvg.in/api?id=Kosciach&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
