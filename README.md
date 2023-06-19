@@ -59,8 +59,6 @@
 <p>
     <h4>How did I start to make games?</h4>
     
-    First game I have made was simple html memory game I made at school, my teacher said that everyone who will upgrade the game will get better     grade.
-So I added more squares, colors, simple starting animation.
-It felt really good to create something nice, and so I begin to make games like breakout, catch, tic-tac-toe, rock-paper-scissors and even my        own pou version that I sometimes play even that it is unfinished.
+    First game I have made was simple html memory game I made at school, my teacher said that everyone who will upgrade the game will get better   grade.
 </p>
 
