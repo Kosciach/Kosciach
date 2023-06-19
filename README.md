@@ -63,7 +63,9 @@ One of the biggest features are abilities which player has a chance to get upon 
                 Now BlueVRed is actually a second version with better abilities, effects, movement, ui, audio and more.
             </p>
 </p>
+
 <br><br>
+
 <p>
     <h2 align="center">  </h2>
         <h3 align="center">GalacticDetective</h3>
@@ -82,6 +84,25 @@ One of the biggest features are abilities which player has a chance to get upon 
             </p>
 </p>
 
+<br><br>
+
+<p>
+    <h2 align="center">  </h2>
+        <h3 align="center">CoconutBattle:ShovelShowdown</h3>
+            <p align="center">
+                <a href="https://kosciach.itch.io/coconutbattleshovelshowdown">
+                    <img src="https://img.itch.zone/aW1hZ2UvMTkxMjg1NC8xMTI1MDA1Ni5wbmc=/original/xmIj%2Fu.png" alt="CoconutBattleShovelShowdown" width="800px"/>
+                </a>
+            </p>
+            <p align="center">
+                Galactic detective was created for Mini Jam 125: Signal with help of my two friend that took care of the art and helped me came up with game idea.
+                This gamejams theme was   Signal   and limitation   Rhytm.
+                This gave me and my friends an idea to create a game where unknown space ship approaches a planet and sends a signal coded with rhytm.
+                Player has to make right decision on what to do with this space ship: jam its signal, shoot down or leave alone.
+                In order to get correct data about ship, which is used to check what type of ship is it, player has to decode signal using randomly generated rhytm in a given ammount of time. 
+                Game has highscore, beating it is a main goal. Game felt difficult for new players that is why I added a guide book in the mainmenu.
+            </p>
+</p>
 ---
 
 #### 📊 GitHub Stats:
