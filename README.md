@@ -53,7 +53,14 @@
 <p>
     <h4>Why does github show I don't commit everyday, even tho I say I do?</h4>
     
-    I work with unity everyday, and sometimes in order to finish my tasks for a day I need to work after midnight and that is when I upload my work to github.</br>
+    I work with unity everyday, and sometimes in order to finish my tasks for a day I need to work after midnight and that is when I upload my work to github.
     So it is technically not the same day like github says, but I think its better than leaving tasks unfinished.
+</p>
+<p>
+    <h4>How did I start to make games?</h4>
+    
+    First game I have made was simple html memory game I made at school, my teacher said that everyone who will upgrade the game will get better     grade.
+So I added more squares, colors, simple starting animation.
+It felt really good to create something nice, and so I begin to make games like breakout, catch, tic-tac-toe, rock-paper-scissors and even my        own pou version that I sometimes play even that it is unfinished.
 </p>
 
