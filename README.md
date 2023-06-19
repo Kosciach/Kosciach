@@ -154,3 +154,9 @@ It is a game where two players, play as shovel wielding coconuts battling each o
     Previously I have begun to create 2 similar games with the same name and concept, but they were typical unfinished projects, both of these games taught me a lot.
     I have uploaded first video of it to my youtube channel and created reddit post where the game can be seen.
 </p>
+
+---
+
+<h3>Contact:</h3>
+
+<p> Email: maciejolszok20@gmail.com</p>
