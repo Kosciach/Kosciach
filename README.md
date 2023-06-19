@@ -49,7 +49,7 @@
 <p>
     <h3 align="center">Few of my projects</h3>
         <h4 align="center">BlueVRed</h4>
-               <a href="https://kosciach.itch.io/bluevred">a</a> <img src="https://img.itch.zone/aW1hZ2UvMTgwODM3NS8xMTg2NjA0OS5wbmc=/original/zoHZdX.png" alt="BVR" />
+               <a href="https://kosciach.itch.io/bluevred"><img src="https://img.itch.zone/aW1hZ2UvMTgwODM3NS8xMTg2NjA0OS5wbmc=/original/zoHZdX.png" alt="BVR" /></a>
 </p>
 
 ---
