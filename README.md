@@ -48,10 +48,7 @@
 
 <p>
     <h3 align="center">Few of my projects</h3>
-
-    <p>
-        <h4 align="center">BlueVRed</h4>
-    </p>
+    <h4 align="center">BlueVRed</h4>
 </p>
 
 ---
