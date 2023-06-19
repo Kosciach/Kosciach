@@ -60,7 +60,7 @@
     <h4>How did I start to make games?</h4>
     
     First game I have made was simple html memory game I made at school, my teacher said that everyone who will upgrade the game will get better grade.
-So I added more squares, colors, simple starting animation.
+    So I added more squares, colors, simple starting animation.
 
 </p>
 
