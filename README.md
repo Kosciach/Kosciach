@@ -73,7 +73,12 @@ One of the biggest features are abilities which player has a chance to get upon 
                 </a>
             </p>
             <p align="center">
-                Galactic detective was created for  Mini Jam 125: Signal  with help of my two friend that took care of the art.
+                Galactic detective was created for Mini Jam 125: Signal with help of my two friend that took care of the art and helped me came up with game idea.
+                This gamejams theme was   Signal   and limitation   Rhytm.
+                This gave me and my friends and idea to create a game where unknown space ship approaches a planet and sends a signal coded with rhytm.
+                Player has to make right decition on what to do with this space ship: jam its signal, shoot down or leave alone.
+                In order to get correct data about ship, which is used to check what type of ship is it, player has to decode signal using randomly generated rhytm in a given ammount of time. 
+                Game has highscore, beating it is a main goal. Game felt difficult for new players that is why I added a guide book in the mainmenu.
             </p>
 </p>
 
