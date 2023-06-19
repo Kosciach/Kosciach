@@ -23,7 +23,6 @@
 </a>
 <br>
 <br>
-<br>
 <h3>💻 What I use everyday:</h3>
 <p float="left">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
