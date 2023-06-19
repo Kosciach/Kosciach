@@ -48,9 +48,9 @@
 
 <p>
     <h3 align="center">Few of my projects</h3>
-    ***
-    ---
-    -----
+    *** a
+    --- b
+    ----- c
         <h4 align="center">BlueVRed</h4>
             <p align="center">
                 <a href="https://kosciach.itch.io/bluevred">
