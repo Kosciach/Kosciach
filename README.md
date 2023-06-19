@@ -55,7 +55,13 @@
                     <img src="https://img.itch.zone/aW1hZ2UvMTgwODM3NS8xMTg2NjA0OS5wbmc=/original/zoHZdX.png" alt="BVR" width="800px"/>
                 </a>
             </p>
-
+            <p align="center">
+                BlueVRed is a top down shooter inspired by one of my first games I have made in javascript.
+As name suggests, in this game you fight as a blue side against increasing ammount of red enemies.
+                Your goal as player is to beat the highscore and get as big score as possible. Game provides 4 diffrent difficulties and each of them has their own highscore, which can be inspected or reset from mainmenu.
+One of the biggest features are abilities which player has a chance to get upon killing and enemy, each ability has a drop chance which adds balance.
+                Now BlueVRed is actually a second version with better abilities, effects, movement, ui, audio and more.
+            </p>
             
 </p>
 
