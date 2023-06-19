@@ -48,6 +48,7 @@
 
 <p>
     <h3 align="center">Few of my projects</h3>
+    ## My Unity Game Projects
         <h4 align="center">BlueVRed</h4>
             <p align="center">
                 <a href="https://kosciach.itch.io/bluevred">
@@ -117,17 +118,3 @@ One of the biggest features are abilities which player has a chance to get upon 
     Previously I have begun to create 2 similar games with the same name and concept, but they were typical unfinished projects, both of these games taught me a lot.
     I have uploaded first video of it to my youtube channel and created reddit post where the game can be seen.
 </p>
-
-
-## My Unity Game Projects
-
-<div style="border-left: 1px solid black; height: 100%; position: absolute; left: 50%; transform: translateX(-50%);"></div>
-
-#### Game 1 Title
-Description of Game 1.
-
-#### Game 2 Title
-Description of Game 2.
-
-#### Game 3 Title
-Description of Game 3.
