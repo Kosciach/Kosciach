@@ -49,7 +49,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=Kosciach&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<h2>FAQ:</h2>
+---
+
+<h3>FAQ:</h3>
 
 
 <p>
