@@ -46,7 +46,6 @@
 
 ---
 
-<p>
     <h3 align="center">Few of my projects</h3>
     <h2 align="center">  </h2>
         <h4 align="center">BlueVRed</h4>
@@ -62,8 +61,6 @@ As name suggests, in this game you fight as a blue side against increasing ammou
 One of the biggest features are abilities which player has a chance to get upon killing and enemy, each ability has a drop chance which adds balance.
                 Now BlueVRed is actually a second version with better abilities, effects, movement, ui, audio and more.
             </p>
-            
-</p>
 
 ---
 
