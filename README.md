@@ -63,6 +63,7 @@ One of the biggest features are abilities which player has a chance to get upon 
                 Now BlueVRed is actually a second version with better abilities, effects, movement, ui, audio and more.
             </p>
 </p>
+<br><br>
 <p>
     <h2 align="center">  </h2>
         <h3 align="center">GalacticDetective</h3>
