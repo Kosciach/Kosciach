@@ -57,7 +57,7 @@
 
 ---
 
-<h3 text-align="center">FAQ:</h3>
+<h3 align="center">FAQ:</h3>
 
 
 <p>
