@@ -1,3 +1,4 @@
+<div float="right">
 <h3>Few Thing About Me:</h3>
 💻 I’m currently working on my new fullbody fps game.<br>
 🌱 I love to learn more about unity and c#.<br>
@@ -6,6 +7,7 @@
 👨‍💻 I have been making games for around 2years. First with html,css,js then ct.js and now with unity.<br>
 📤 Few of my games are available on my itch.io profile.<br>
 🎮 I really like to take part in gamejams.
+</div>
 
 ---
 
