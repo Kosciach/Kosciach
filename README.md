@@ -51,7 +51,7 @@
 
 <h2>FAQ:</h2>
 <p>
-    Why does github show I don't commit everyday, even tho I say I do?<br>
+    <h4>Why does github show I don't commit everyday, even tho I say I do?</h4>
     I work with unity everyday, and sometimes in order to finish my task for a day I need to work after midnight and that is when I commit.<br>
     So it is technically not the same day like github says, but I think its better than leaving tasks unfinished.
 </p>
