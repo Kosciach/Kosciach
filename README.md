@@ -46,7 +46,7 @@
 
 ---
 
-<h3>Few of my projects</h3>
+<h3 align="center">Few of my projects</h3>
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 
-<h3 align="center">FAQ:</h3>
+<h3>FAQ:</h3>
 
 
 <p>
