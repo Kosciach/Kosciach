@@ -44,6 +44,10 @@
 
 ---
 
+<h3>Few of my projects</h3>
+
+---
+
 #### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kosciach&theme=dark&hide_border=false)
 
