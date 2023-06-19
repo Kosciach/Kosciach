@@ -4,7 +4,8 @@
 🎓 I have finished IT school.<br>
 📅 I work with unity everyday.<br>
 👨‍💻 I have been making games for around 2years. First with html,css,js then ct.js and now with unity.<br>
-📤 A lot of my games are available on my itch.io profile.
+📤 Few of my games are available on my itch.io profile.
+🎮 I like to participate in gamejams.
 ---
 
 <h3>My social media:</h3>
@@ -25,6 +26,7 @@
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
     <img src="https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+    <img src="https://camo.githubusercontent.com/fd60f44029161b7287b32f4986ef98f1caa6705355d8df6d14db7de0b50a89ba/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d56697375616c2b53747564696f26636f6c6f723d354332443931266c6f676f3d56697375616c2b53747564696f266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="VisualStudio" />
 </p>
 
 # 📊 GitHub Stats:
