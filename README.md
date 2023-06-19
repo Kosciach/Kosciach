@@ -91,7 +91,7 @@ One of the biggest features are abilities which player has a chance to get upon 
         <h3 align="center">CoconutBattle:ShovelShowdown</h3>
             <p align="center">
                 <a href="https://kosciach.itch.io/coconutbattleshovelshowdown">
-                    <img src="https://img.itch.zone/aW1hZ2UvMTkxMjg1NC8xMTI1MDA1Ni5wbmc=/original/xmIj%2Fu.png" alt="CoconutBattleShovelShowdown" width="800px"/>
+                    <img src="https://img.itch.zone/aW1nLzExNDk5MzY2LnBuZw==/original/4MA%2BKP.png" width="800px"/>
                 </a>
             </p>
             <p align="center">
