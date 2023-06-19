@@ -88,7 +88,7 @@
 <p>
     <h4>Why didn't I use github from the start?</h4>
 
-    When I started using unity and before that, I was making games solely for fun.
+When I started using unity and before that, I was making games solely for fun.
 It was later that I decided I want to turn my hobby into a job, and started using github.
 </p>
 
@@ -96,7 +96,7 @@ It was later that I decided I want to turn my hobby into a job, and started usin
 <p>
     <h4>What is my current project?</h4>
     
-    Currently I'am working on fps game, with fullbody controller, climbing, swimming, and procedular weapons.
+Currently I'am working on fps game, with fullbody controller, climbing, swimming, and procedular weapons.
 I want it to be survival zombie game, with simple story mode I already have idea for.
 Previously I have begin to create 2 similar games with the same name and concept but they were typical unfinished projects, but both of them taught me a lot.
 I have uploaded first video of it to my youtube channel and created reddit post where the game can be seen.
