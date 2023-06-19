@@ -96,8 +96,8 @@ One of the biggest features are abilities which player has a chance to get upon 
             </p>
             <p align="center">
                 For Mini Jame Gam #15 CoconutBattle:ShovelShowdown was created, using theme Together and special object Shovel.
-It is a game two players, play as shovel wielding coconuts battling each other on a beach.
-                I have previously made games for two players in js or c++, but it was my first time doing this in unity.
+It is a game where two players, play as shovel wielding coconuts battling each other on a beach.
+                I have previously made games for two players in js or c++, like tic-tac-toe or ping-pong, but it was my first time doing this in unity.
                 Incredibly simple but really fun game.
             </p>
 </p>
