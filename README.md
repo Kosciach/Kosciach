@@ -6,7 +6,8 @@
 👨‍💻 I have been making games for around 2years. First with html,css,js then ct.js and now with unity.<br>
 📤 Few of my games are available on my itch.io profile.
 🎮 I like to participate in gamejams.
----
+
+-
 
 <h3>My social media:</h3>
 <a href="https://www.reddit.com/user/Kosciaszek">
