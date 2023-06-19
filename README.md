@@ -98,6 +98,6 @@
     
     Currently I'am working on fps game, with fullbody controller, climbing, swimming, and procedular weapons.
     I want it to be survival zombie game, with simple story mode I already have idea for.
-    Previously I have begin to create 2 similar games with the same name and concept but they were typical unfinished projects, but both of them        taught me a lot.
+    Previously I have begun to create 2 similar games with the same name and concept, but they were typical unfinished projects, both of these    taught me a lot.
     I have uploaded first video of it to my youtube channel and created reddit post where the game can be seen.
 </p>
