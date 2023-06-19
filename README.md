@@ -1,4 +1,4 @@
-<h2>Few Thing About Me:</h2>
+<h2>Few Thing About Me:</h2> 
 💻 I’m currently working on my new fullbody fps game.<br>
 🌱 I love to learn more about unity and c#.<br>
 🎓 I have finished IT school.<br>
