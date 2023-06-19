@@ -1,14 +1,13 @@
-<h3>Few Thing About Me:</h3>
+<h2>Few Thing About Me:</h2>
 💻 I’m currently working on my new fullbody fps game.<br>
-🌱 I’m currently learning more about unity and c#.<br>
+🌱 I love to learn more about unity and c#.<br>
 🎓 I have finished IT school.<br>
-📚 I really like to learn new usefull things.<br>
-📅 I use unity everyday.<br>
-⭐ Except game dev I love star wars.<br>
-⚡ Fun fact: Failing is the best way to learn.<br>
-
+📅 I work with unity everyday.<br>
+👨‍💻 I have been making games for around 2years. First with html,css,js then ct.js and now with unity.<br>
+📤 A lot of my games are available on my itch.io profile.
 ---
-## 🌐 Socials:
+
+<h3>My social media:</h3>:
 <a href="https://www.reddit.com/user/Kosciaszek">
 <img src="https://camo.githubusercontent.com/4ea8f4c29bcd0f7a538db2e8f7b965842e144544a4074a34d1927aa90027fec0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d52656464697426636f6c6f723d464634353030266c6f676f3d526564646974266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Reddit" />
 </a>
@@ -21,7 +20,7 @@
 <img src="https://camo.githubusercontent.com/9fd682145e4f0d5b90aac147ca8f96a32465f0b739c99f07c43fb47a63e59cf2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d497463682e696f26636f6c6f723d464135433543266c6f676f3d497463682e696f266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Itch.io" />
 </a>
 
-# 💻 Tech Stack:
+<h3>💻 My everyday use:</h3>:
 <p float="left">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
