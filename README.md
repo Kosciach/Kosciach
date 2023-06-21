@@ -49,6 +49,21 @@
 <h3 align="center">Few of my projects</h3>
 <p>
     <h2 align="center">  </h2>
+        <h3 align="center">Spread</h3>
+            <p align="center">
+                <a href="https://kosciach.itch.io/coconutbattleshovelshowdown">
+                    <img src="https://img.itch.zone/aW1nLzExNDk5MzY2LnBuZw==/original/4MA%2BKP.png" width="800px"/>
+                </a>
+            </p>
+            <p align="center">
+                G
+            </p>
+</p>
+
+<br><br>
+
+<p>
+    <h2 align="center">  </h2>
         <h3 align="center">BlueVRed</h3>
             <p align="center">
                 <a href="https://kosciach.itch.io/bluevred">
@@ -101,6 +116,7 @@ It is a game where two players, play as shovel wielding coconuts battling each o
                 Incredibly simple but really fun game.
             </p>
 </p>
+
 ---
 
 #### 📊 GitHub Stats:
