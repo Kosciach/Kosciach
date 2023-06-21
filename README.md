@@ -1,4 +1,4 @@
-![Zrzut ekranu 2023-06-21 190122](https://github.com/Kosciach/Kosciach/assets/97178996/b2b39848-4e41-41fe-81ff-fbd808a03c94)<h3>Few Thing About Me:</h3>
+<h3>Few Thing About Me:</h3>
 💻 I’m currently working on my new fullbody fps game.<br>
 🌱 I love to learn more about unity and c#.<br>
 🎓 I have finished IT school.<br>
@@ -50,12 +50,17 @@
 <p>
         <h3 align="center">Spread</h3>
             <p align="center">
-                <a href="">
-                    <img src="https://img.itch.zone/aW1nLzExNDk5MzY2LnBuZw==/original/4MA%2BKP.png" width="800px"/>
-                </a>
+                <img src="https://github.com/Kosciach/Kosciach/assets/97178996/b2b39848-4e41-41fe-81ff-fbd808a03c94" width="800px"/>
             </p>
             <p align="center">
-                G
+                My most recent unity project, fullbody fps survival game, inspired by many other popular games.
+                Spread is early in development, currently range weapon system is worked at.
+                Guns are almost completely animated procedulary, recoil, sway, bobbing, equiping.
+                Except charging bolt action weapons and reload animations, these two use ik targets and seperate layer to create baked animations used in players animator.
+                I have previously started 2 similar projects, both taught me about unity and programing with c# even that they are unfinished.
+Finished version will be game with zombie based story, similar to tlou or dying light.
+Progress I am making on spread is uploaded on my yt channel and reddit.
+                <br> More in the games readme.
             </p>
 </p>
 
@@ -75,6 +80,7 @@ As name suggests, in this game you fight as a blue side against increasing ammou
                 Your goal as player is to beat the highscore and get as big score as possible. Game provides 4 diffrent difficulties and each of them has their own highscore, which can be inspected or reset from mainmenu.
 One of the biggest features are abilities which player has a chance to get upon killing and enemy, each ability has a drop chance which adds balance.
                 Now BlueVRed is actually a second version with better abilities, effects, movement, ui, audio and more.
+                <br> More in the games readme.
             </p>
 </p>
 
@@ -95,6 +101,7 @@ One of the biggest features are abilities which player has a chance to get upon 
                 Player has to make right decision on what to do with this space ship: jam its signal, shoot down or leave alone.
                 In order to get correct data about ship, which is used to check what type of ship is it, player has to decode signal using randomly generated rhytm in a given ammount of time. 
                 Game has highscore, beating it is a main goal. Game felt difficult for new players that is why I added a guide book in the mainmenu.
+                <br> More in the games readme.
             </p>
 </p>
 
@@ -113,6 +120,7 @@ One of the biggest features are abilities which player has a chance to get upon 
 It is a game where two players, play as shovel wielding coconuts battling each other on a beach.
                 I have previously made games for two players in js or c++, like tic-tac-toe or ping-pong, but it was my first time doing this in unity.
                 Incredibly simple but really fun game.
+                <br> More in the games readme.
             </p>
 </p>
 
