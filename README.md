@@ -118,7 +118,7 @@ It is a game where two players, play as shovel wielding coconuts battling each o
 
 ---
 
-<h3>📊 GitHub Stats</h3>
+<h2>📊 GitHub Stats</h2>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kosciach&theme=dark&hide_border=false)
 
