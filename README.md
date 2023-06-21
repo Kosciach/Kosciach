@@ -46,9 +46,8 @@
 
 ---
 
-<h4 align="center">Few of my projects</h4>
+<h2 align="center">Few of my projects</h2>
 <p>
-    <h2 align="center">  </h2>
         <h3 align="center">Spread</h3>
             <p align="center">
                 <a href="https://kosciach.itch.io/coconutbattleshovelshowdown">
