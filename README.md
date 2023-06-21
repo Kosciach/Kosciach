@@ -1,4 +1,4 @@
-<h3>Few Thing About Me:</h3>
+![Zrzut ekranu 2023-06-21 190122](https://github.com/Kosciach/Kosciach/assets/97178996/b2b39848-4e41-41fe-81ff-fbd808a03c94)<h3>Few Thing About Me:</h3>
 💻 I’m currently working on my new fullbody fps game.<br>
 🌱 I love to learn more about unity and c#.<br>
 🎓 I have finished IT school.<br>
@@ -50,7 +50,7 @@
 <p>
         <h3 align="center">Spread</h3>
             <p align="center">
-                <a href="https://kosciach.itch.io/coconutbattleshovelshowdown">
+                <a href="">
                     <img src="https://img.itch.zone/aW1nLzExNDk5MzY2LnBuZw==/original/4MA%2BKP.png" width="800px"/>
                 </a>
             </p>
