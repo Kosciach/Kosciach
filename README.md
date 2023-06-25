@@ -49,9 +49,15 @@
 <h2 align="center">Few of my projects</h2>
 <p>
         <h3 align="center">Spread</h3>
-            <p align="center">
-                <img src="https://github.com/Kosciach/Kosciach/assets/97178996/b2b39848-4e41-41fe-81ff-fbd808a03c94" width="800px"/>
-            </p>
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=v82jUoOpVp4&t=5s">
+    <img src="https://camo.githubusercontent.com/9bbd418eba4e5ca72da9663efab9d832ebec5e1b1141c6edad4fdb618e262958/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d596f755475626526636f6c6f723d464630303030266c6f676f3d596f7554756265266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Youtube" />
+    </a>
+    <a href="https://github.com/Kosciach/Spread">
+    <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Repository" />
+    </a>
+    <img src="https://github.com/Kosciach/Kosciach/assets/97178996/b2b39848-4e41-41fe-81ff-fbd808a03c94" width="800px"/>
+</p>
             <p align="center">
                 My most recent unity project, fullbody fps survival game, inspired by many other popular games.
                 Spread is early in development, currently range weapon system is worked at.
@@ -69,11 +75,15 @@ Progress I am making on spread is uploaded on my yt channel and reddit.
 <p>
     <h2 align="center">  </h2>
         <h3 align="center">BlueVRed</h3>
-            <p align="center">
-                <a href="https://kosciach.itch.io/bluevred">
-                    <img src="https://img.itch.zone/aW1hZ2UvMTgwODM3NS8xMTg2NjA0OS5wbmc=/original/zoHZdX.png" alt="BlueVRed" width="800px"/>
-                </a>
-            </p>
+<p align="center">
+    <a href="https://kosciach.itch.io/bluevred">
+    <img src="https://camo.githubusercontent.com/9fd682145e4f0d5b90aac147ca8f96a32465f0b739c99f07c43fb47a63e59cf2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d497463682e696f26636f6c6f723d464135433543266c6f676f3d497463682e696f266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Itchio" />
+    </a>
+    <a href="https://github.com/Kosciach/BlueVRed2">
+    <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Repository" />
+    </a>
+    <img src="https://img.itch.zone/aW1hZ2UvMTgwODM3NS8xMTg2NjA0OS5wbmc=/original/zoHZdX.png" alt="BlueVRed" width="800px"/>
+</p>
             <p align="center">
                 BlueVRed is a top down shooter inspired by one of my first games I have made in javascript.
 As name suggests, in this game you fight as a blue side against increasing ammount of red enemies.
@@ -89,11 +99,15 @@ One of the biggest features are abilities which player has a chance to get upon 
 <p>
     <h2 align="center">  </h2>
         <h3 align="center">GalacticDetective</h3>
-            <p align="center">
-                <a href="https://kosciach.itch.io/galacticdetective">
-                    <img src="https://img.itch.zone/aW1hZ2UvMTkxMjg1NC8xMTI1MDA1Ni5wbmc=/original/xmIj%2Fu.png" alt="GalacticDetective" width="800px"/>
-                </a>
-            </p>
+<p align="center">
+    <a href="https://kosciach.itch.io/galacticdetective">
+    <img src="https://camo.githubusercontent.com/9fd682145e4f0d5b90aac147ca8f96a32465f0b739c99f07c43fb47a63e59cf2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d497463682e696f26636f6c6f723d464135433543266c6f676f3d497463682e696f266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Itchio" />
+    </a>
+    <a href="https://github.com/Kosciach/GalacticDetective">
+    <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Repository" />
+    </a>
+    <img src="https://img.itch.zone/aW1hZ2UvMTkxMjg1NC8xMTI1MDA1Ni5wbmc=/original/xmIj%2Fu.png" alt="GalacticDetective" width="800px"/>
+</p>
             <p align="center">
                 Galactic detective was created for Mini Jam 125: Signal with help of my two friend that took care of the art and helped me came up with game idea.
                 This gamejams theme was   Signal   and limitation   Rhytm.
@@ -110,11 +124,15 @@ One of the biggest features are abilities which player has a chance to get upon 
 <p>
     <h2 align="center">  </h2>
         <h3 align="center">CoconutBattle:ShovelShowdown</h3>
-            <p align="center">
-                <a href="https://kosciach.itch.io/coconutbattleshovelshowdown">
-                    <img src="https://img.itch.zone/aW1nLzExNDk5MzY2LnBuZw==/original/4MA%2BKP.png" width="800px"/>
-                </a>
-            </p>
+<p align="center">
+    <a href="https://kosciach.itch.io/coconutbattleshovelshowdown">
+    <img src="https://camo.githubusercontent.com/9fd682145e4f0d5b90aac147ca8f96a32465f0b739c99f07c43fb47a63e59cf2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d497463682e696f26636f6c6f723d464135433543266c6f676f3d497463682e696f266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Itchio" />
+    </a>
+    <a href="https://github.com/Kosciach/CoconutBattle_ShovelShowdown">
+    <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Repository" />
+    </a>
+    <img src="https://img.itch.zone/aW1nLzExNDk5MzY2LnBuZw==/original/4MA%2BKP.png" alt="ShovelShowdown" width="800px"/>
+</p>
             <p align="center">
                 For Mini Jame Gam #15 CoconutBattle:ShovelShowdown was created, using theme Together and special object Shovel.
 It is a game where two players, play as shovel wielding coconuts battling each other on a beach.
