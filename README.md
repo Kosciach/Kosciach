@@ -56,6 +56,7 @@
     <a href="https://github.com/Kosciach/Spread">
     <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Repository" />
     </a>
+    <br>
     <img src="https://github.com/Kosciach/Kosciach/assets/97178996/b2b39848-4e41-41fe-81ff-fbd808a03c94" width="800px"/>
 </p>
             <p align="center">
@@ -107,6 +108,7 @@ One of the biggest features are abilities which player has a chance to get upon 
     <a href="https://github.com/Kosciach/GalacticDetective">
     <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Repository" />
     </a>
+    <br>
     <img src="https://img.itch.zone/aW1hZ2UvMTkxMjg1NC8xMTI1MDA1Ni5wbmc=/original/xmIj%2Fu.png" alt="GalacticDetective" width="800px"/>
 </p>
             <p align="center">
@@ -132,6 +134,7 @@ One of the biggest features are abilities which player has a chance to get upon 
     <a href="https://github.com/Kosciach/CoconutBattle_ShovelShowdown">
     <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Repository" />
     </a>
+    <br>
     <img src="https://img.itch.zone/aW1nLzExNDk5MzY2LnBuZw==/original/4MA%2BKP.png" alt="ShovelShowdown" width="800px"/>
 </p>
             <p align="center">
