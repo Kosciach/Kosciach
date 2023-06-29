@@ -72,7 +72,7 @@ Progress I am making on spread is uploaded on my yt channel and reddit.
 
 <br><br>
 
-<p>
+<p float="center">
     <h2 align="center">  </h2>
         <h3 align="center">BlueVRed</h3>
 <p align="center">
