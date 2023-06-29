@@ -72,7 +72,7 @@ Progress I am making on spread is uploaded on my yt channel and reddit.
 
 <br><br>
 
-<p float="center">
+<p>
     <h2 align="center">  </h2>
         <h3 align="center">BlueVRed</h3>
 <p align="center">
@@ -82,6 +82,7 @@ Progress I am making on spread is uploaded on my yt channel and reddit.
     <a href="https://github.com/Kosciach/BlueVRed2">
     <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Repository" />
     </a>
+    <br>
     <img src="https://img.itch.zone/aW1hZ2UvMTgwODM3NS8xMTg2NjA0OS5wbmc=/original/zoHZdX.png" alt="BlueVRed" width="800px"/>
 </p>
             <p align="center">
