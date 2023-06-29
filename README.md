@@ -152,53 +152,6 @@ It is a game where two players, play as shovel wielding coconuts battling each o
 
 ---
 
-<h3>FAQ:</h3>
-
-
-<p>
-    <h4>Why does github show I don't commit everyday, even tho I say I do?</h4>
-    
-    I work with unity everyday, and sometimes in order to finish my tasks for a day I need to work after midnight and that is when I upload my work to github.
-    So it is technically not the same day like github says, but I think its better than leaving tasks unfinished.
-</p>
-
-
-<p>
-    <h4>Why are my projects private?</h4>
-
-    I want projects I have already made to be available for people as build versions and not unity projects.
-    But I plan to do projects available for everyone in the future.
-</p>
-
-
-<p>
-    <h4>How did I start to make games?</h4>
-    
-    First game I have made was simple html memory game I made at school, my teacher said that everyone who will upgrade the game will get better grade.
-    So I added more squares, colors, simple starting animation.
-    It felt really good to create something nice, and so I begin to make games like breakout, catch, tic-tac-toe, rock-paper-scissors and even my own pou version that I sometimes play even that it is unfinished.
-</p>
-
-
-<p>
-    <h4>Why didn't I use github from the start?</h4>
-
-    When I started using unity and before that, I was making games solely for fun.
-    It was later that I decided I want to turn my hobby into a job, and started using github.
-</p>
-
-
-<p>
-    <h4>What is my current project?</h4>
-    
-    Currently I'am working on fps game, with fullbody controller, climbing, swimming, and procedular weapons.
-    I want it to be survival zombie game, with simple story mode I already have idea for.
-    Previously I have begun to create 2 similar games with the same name and concept, but they were typical unfinished projects, both of these games taught me a lot.
-    I have uploaded first video of it to my youtube channel and created reddit post where the game can be seen.
-</p>
-
----
-
 <h3>Contact:</h3>
 
 <p> Email: maciejolszok20@gmail.com</p>
