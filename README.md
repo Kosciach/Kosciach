@@ -99,6 +99,29 @@ One of the biggest features are abilities which player has a chance to get upon 
 
 <p>
     <h2 align="center">  </h2>
+        <h3 align="center">MurderersMystery</h3>
+<p align="center">
+    <a href="https://kosciach.itch.io/murderersmystery">
+    <img src="https://camo.githubusercontent.com/9fd682145e4f0d5b90aac147ca8f96a32465f0b739c99f07c43fb47a63e59cf2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d497463682e696f26636f6c6f723d464135433543266c6f676f3d497463682e696f266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Itchio" />
+    </a>
+    <a href="https://github.com/Kosciach/MurderersMystery">
+    <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Repository" />
+    </a>
+    <br>
+    <img src="https://img.itch.zone/aW1hZ2UvMjE2MTQ2NS8xMjczNzg4OS5wbmc=/original/Y4jw4d.png" alt="MurderersMystery" width="800px"/>
+</p>
+            <p align="center">
+                Created for GMTK Game Jam 2023 - RolesReversed.<br>
+In this game, players job as a title murderer, is to avoid being caught by the police.<br>
+Game is seperated into 5 stages, everyone of them with 3 choices, and each choice has its consequences.<br>
+1 of 9 ending is choosen depending on the choices player made.
+            </p>
+</p>
+
+<br><br>
+
+<p>
+    <h2 align="center">  </h2>
         <h3 align="center">GalacticDetective</h3>
 <p align="center">
     <a href="https://kosciach.itch.io/galacticdetective">
@@ -117,30 +140,6 @@ One of the biggest features are abilities which player has a chance to get upon 
                 Player has to make right decision on what to do with this space ship: jam its signal, shoot down or leave alone.
                 In order to get correct data about ship, which is used to check what type of ship is it, player has to decode signal using randomly generated rhytm in a given ammount of time. 
                 Game has highscore, beating it is a main goal. Game felt difficult for new players that is why I added a guide book in the mainmenu.
-                <br> More in the games readme.
-            </p>
-</p>
-
-<br><br>
-
-<p>
-    <h2 align="center">  </h2>
-        <h3 align="center">CoconutBattle:ShovelShowdown</h3>
-<p align="center">
-    <a href="https://kosciach.itch.io/coconutbattleshovelshowdown">
-    <img src="https://camo.githubusercontent.com/9fd682145e4f0d5b90aac147ca8f96a32465f0b739c99f07c43fb47a63e59cf2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d497463682e696f26636f6c6f723d464135433543266c6f676f3d497463682e696f266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Itchio" />
-    </a>
-    <a href="https://github.com/Kosciach/CoconutBattle_ShovelShowdown">
-    <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Repository" />
-    </a>
-    <br>
-    <img src="https://img.itch.zone/aW1nLzExNDk5MzY2LnBuZw==/original/4MA%2BKP.png" alt="ShovelShowdown" width="800px"/>
-</p>
-            <p align="center">
-                For Mini Jame Gam #15 CoconutBattle:ShovelShowdown was created, using theme Together and special object Shovel.
-It is a game where two players, play as shovel wielding coconuts battling each other on a beach.
-                I have previously made games for two players in js or c++, like tic-tac-toe or ping-pong, but it was my first time doing this in unity.
-                Incredibly simple but really fun game.
                 <br> More in the games readme.
             </p>
 </p>
