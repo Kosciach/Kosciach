@@ -99,6 +99,31 @@ One of the biggest features are abilities which player has a chance to get upon 
 
 <p>
     <h2 align="center">  </h2>
+        <h3 align="center">ReviewRememberRecreate</h3>
+<p align="center">
+    <a href="https://kosciach.itch.io/reviewrememberrecreate">
+    <img src="https://camo.githubusercontent.com/9fd682145e4f0d5b90aac147ca8f96a32465f0b739c99f07c43fb47a63e59cf2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d497463682e696f26636f6c6f723d464135433543266c6f676f3d497463682e696f266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Itchio" />
+    </a>
+    <a href="https://github.com/Kosciach/ReviewRememberRecreate">
+    <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Repository" />
+    </a>
+    <br>
+    <img src="https://img.itch.zone/aW1nLzEzMDA0Mzg5LnBuZw==/original/lcc0Sw.png" alt="ReviewRememberRecreate" width="800px"/>
+</p>
+            <p align="center">
+                Created for IcoJam 2023 - 3... 2.. 1.<br>
+Main goal of the game is to recreate the generated shape.<br>
+                Player has to analize and remember given shape in 3s, and then using given tools, recreate it is best as player can.<br>
+                Shape settings are seperated into:<br>
+                1| Base: Scale, FillColor, OutlineColor, OutlineSize<br>
+                2| Specialized: each shape has its own special settings that no other shape uses.
+            </p>
+</p>
+
+<br><br>
+
+<p>
+    <h2 align="center">  </h2>
         <h3 align="center">MurderersMystery</h3>
 <p align="center">
     <a href="https://kosciach.itch.io/murderersmystery">
@@ -115,32 +140,6 @@ One of the biggest features are abilities which player has a chance to get upon 
 In this game, players job as a title murderer, is to avoid being caught by the police.<br>
 Game is seperated into 5 stages, everyone of them with 3 choices, and each choice has its consequences.<br>
 1 of 9 ending is choosen depending on the choices player made.
-            </p>
-</p>
-
-<br><br>
-
-<p>
-    <h2 align="center">  </h2>
-        <h3 align="center">GalacticDetective</h3>
-<p align="center">
-    <a href="https://kosciach.itch.io/galacticdetective">
-    <img src="https://camo.githubusercontent.com/9fd682145e4f0d5b90aac147ca8f96a32465f0b739c99f07c43fb47a63e59cf2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d497463682e696f26636f6c6f723d464135433543266c6f676f3d497463682e696f266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Itchio" />
-    </a>
-    <a href="https://github.com/Kosciach/GalacticDetective">
-    <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Repository" />
-    </a>
-    <br>
-    <img src="https://img.itch.zone/aW1hZ2UvMTkxMjg1NC8xMTI1MDA1Ni5wbmc=/original/xmIj%2Fu.png" alt="GalacticDetective" width="800px"/>
-</p>
-            <p align="center">
-                Galactic detective was created for Mini Jam 125: Signal with help of my two friend that took care of the art and helped me came up with game idea.
-                This gamejams theme was   Signal   and limitation   Rhytm.
-                This gave me and my friends an idea to create a game where unknown space ship approaches a planet and sends a signal coded with rhytm.
-                Player has to make right decision on what to do with this space ship: jam its signal, shoot down or leave alone.
-                In order to get correct data about ship, which is used to check what type of ship is it, player has to decode signal using randomly generated rhytm in a given ammount of time. 
-                Game has highscore, beating it is a main goal. Game felt difficult for new players that is why I added a guide book in the mainmenu.
-                <br> More in the games readme.
             </p>
 </p>
 
