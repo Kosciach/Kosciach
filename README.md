@@ -1,5 +1,5 @@
 <h3>Few Thing About Me:</h3>
-💻 I’m currently working on useful tools package for my future projects.<br>
+💻 I’m currently working on package with script I will use in future projects.<br>
 🌱 I love to learn more about unity and c#.<br>
 🎓 I have finished IT school.<br>
 📅 I work with unity everyday.<br>
