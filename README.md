@@ -61,13 +61,8 @@
 </p>
             <p align="center">
                 My most recent unity project, fullbody fps survival game, inspired by many other popular games.
-                Spread is early in development, currently range weapon system is worked at.
-                Guns are almost completely animated procedulary, recoil, sway, bobbing, equiping.
-                Except charging bolt action weapons and reload animations, these two use ik targets and seperate layer to create baked animations used in players animator.
-                I have previously started 2 similar projects, both taught me about unity and programing with c# even that they are unfinished.
-Finished version will be game with zombie based story, similar to tlou or dying light.
-Progress I am making on spread is uploaded on my yt channel and reddit.
-                <br> More in the games readme.
+                Spread is early in development, and is currectly being refreshed.
+                Video of how this game looks like can be found on my youtube channel!
             </p>
 </p>
 
