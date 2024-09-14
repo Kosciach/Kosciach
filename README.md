@@ -11,37 +11,36 @@
 
 <h3>My social media:</h3>
 <a href="https://www.reddit.com/user/Kosciaszek">
-<img src="https://camo.githubusercontent.com/4ea8f4c29bcd0f7a538db2e8f7b965842e144544a4074a34d1927aa90027fec0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d52656464697426636f6c6f723d464634353030266c6f676f3d526564646974266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Reddit" />
+<img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
 </a>
 
 <a href="https://www.youtube.com/channel/UCpaQbECuZZKc7-rOkEVQfEw">
-<img src="https://camo.githubusercontent.com/9bbd418eba4e5ca72da9663efab9d832ebec5e1b1141c6edad4fdb618e262958/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d596f755475626526636f6c6f723d464630303030266c6f676f3d596f7554756265266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Youtube" />
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
 </a>
 
 <a href="https://kosciach.itch.io/">
-<img src="https://camo.githubusercontent.com/9fd682145e4f0d5b90aac147ca8f96a32465f0b739c99f07c43fb47a63e59cf2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d497463682e696f26636f6c6f723d464135433543266c6f676f3d497463682e696f266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Itch.io" />
+<img src="https://img.shields.io/badge/Itch-red?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io" />
 </a>
 
 ##  
 
 <h3>💻 What I use everyday:</h3>
 <p float="left">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=cshrp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-    <img src="https://camo.githubusercontent.com/fd60f44029161b7287b32f4986ef98f1caa6705355d8df6d14db7de0b50a89ba/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d56697375616c2b53747564696f26636f6c6f723d354332443931266c6f676f3d56697375616c2b53747564696f266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="VisualStudio" />
-        <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Github" />
-            <img src="https://camo.githubusercontent.com/42acc7ee3a18313a065e672e0835729edf3361dedb045d6c3cf8821fe30a1c2d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697426636f6c6f723d463035303332266c6f676f3d476974266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="GIT" />
+    <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VisualStudio" />
+    <img src="https://img.shields.io/badge/Github-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
 </p>
-
 
 <h4>💻 Other things I use:</h4>
 <p float="left">
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-    <img src="https://camo.githubusercontent.com/4f3858ac63dd0f3200448b3757abf78345a95978716f35196a110aa573d0111e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47494d5026636f6c6f723d354335353433266c6f676f3d47494d50266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Gimp" />
-    <img src="https://camo.githubusercontent.com/77d3acdf1e6f3d365eed25cfea8126ae774cb89bb0ab9c220c5806a4df7a7ba5/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d496e6b736361706526636f6c6f723d303030303030266c6f676f3d496e6b7363617065266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Inkscape" />
-        <img src="https://camo.githubusercontent.com/d2da7e7ec8424780720101d4853c64dffb81dc69dfdd25a0ce88cdb3848bbc6f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d48544d4c3526636f6c6f723d453334463236266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="HTML" />
-        <img src="https://camo.githubusercontent.com/9fe0ddca8c80fd49703246ca3b9a894ddfdc9c1c80f6ab5de92bbe91471dbab8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4353533326636f6c6f723d313537324236266c6f676f3d43535333266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="CSS" />
-        <img src="https://camo.githubusercontent.com/3aaee8bf7885dcf0cea8a5647c4514b7d800b1a730d38bce7dadf6bff883378d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4a61766153637269707426636f6c6f723d323232323232266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d463744463145266c6162656c3d" alt="JS" />
+    <img src="https://img.shields.io/badge/Gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Gimp" />
+    <img src="https://img.shields.io/badge/InkScape-000000?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape" />
+    <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JS" />
 </p>
 
 ---
