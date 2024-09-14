@@ -50,10 +50,10 @@
         <h3 align="center">Spread</h3>
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v82jUoOpVp4&t=5s">
-    <img src="https://camo.githubusercontent.com/9bbd418eba4e5ca72da9663efab9d832ebec5e1b1141c6edad4fdb618e262958/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d596f755475626526636f6c6f723d464630303030266c6f676f3d596f7554756265266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Youtube" />
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
     </a>
     <a href="https://github.com/Kosciach/Spread">
-    <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Repository" />
+    <img src="https://img.shields.io/badge/Repository-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
     </a>
     <br>
     <img src="https://user-images.githubusercontent.com/97178996/256647169-fc92a88d-e0a2-436c-8141-159c41e477ac.png" width="800px"/>
@@ -71,13 +71,13 @@
         <h3 align="center">BlueVRed</h3>
 <p align="center">
     <a href="https://kosciach.itch.io/bluevred">
-    <img src="https://camo.githubusercontent.com/9fd682145e4f0d5b90aac147ca8f96a32465f0b739c99f07c43fb47a63e59cf2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d497463682e696f26636f6c6f723d464135433543266c6f676f3d497463682e696f266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Itchio" />
+    <img src="https://img.shields.io/badge/Itch-red?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itchio" />
     </a>
     <a href="https://github.com/Kosciach/BlueVRed2">
-    <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Repository" />
+    <img src="https://img.shields.io/badge/Repository-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
     </a>
     <br>
-    <img src="https://img.itch.zone/aW1hZ2UvMTgwODM3NS8xMTg2NjA0OS5wbmc=/original/zoHZdX.png" alt="BlueVRed" width="800px"/>
+    <img src="https://img.itch.zone/aW1nLzEzMDA0NDQ2LnBuZw==/original/4fMoaw.png" alt="BlueVRed" width="800px"/>
 </p>
             <p align="center">
                 BlueVRed is a top down shooter inspired by one of my first games I have made in javascript.
@@ -96,10 +96,10 @@ One of the biggest features are abilities which player has a chance to get upon 
         <h3 align="center">ReviewRememberRecreate</h3>
 <p align="center">
     <a href="https://kosciach.itch.io/reviewrememberrecreate">
-    <img src="https://camo.githubusercontent.com/9fd682145e4f0d5b90aac147ca8f96a32465f0b739c99f07c43fb47a63e59cf2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d497463682e696f26636f6c6f723d464135433543266c6f676f3d497463682e696f266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Itchio" />
+    <img src="https://img.shields.io/badge/Itch-red?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itchio" />
     </a>
     <a href="https://github.com/Kosciach/ReviewRememberRecreate">
-    <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Repository" />
+    <img src="https://img.shields.io/badge/Repository-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
     </a>
     <br>
     <img src="https://img.itch.zone/aW1nLzEzMDA0Mzg5LnBuZw==/original/lcc0Sw.png" alt="ReviewRememberRecreate" width="800px"/>
@@ -121,10 +121,10 @@ Main goal of the game is to recreate the generated shape.<br>
         <h3 align="center">MurderersMystery</h3>
 <p align="center">
     <a href="https://kosciach.itch.io/murderersmystery">
-    <img src="https://camo.githubusercontent.com/9fd682145e4f0d5b90aac147ca8f96a32465f0b739c99f07c43fb47a63e59cf2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d497463682e696f26636f6c6f723d464135433543266c6f676f3d497463682e696f266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Itchio" />
+    <img src="https://img.shields.io/badge/Itch-red?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itchio" />
     </a>
     <a href="https://github.com/Kosciach/MurderersMystery">
-    <img src="https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Repository" />
+    <img src="https://img.shields.io/badge/Repository-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
     </a>
     <br>
     <img src="https://img.itch.zone/aW1hZ2UvMjE2MTQ2NS8xMjczNzg4OS5wbmc=/original/Y4jw4d.png" alt="MurderersMystery" width="800px"/>
