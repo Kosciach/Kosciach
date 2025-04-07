@@ -1,10 +1,10 @@
 <h3>Few Thing About Me:</h3>
 💻 I’m currently working on a new game idea, DiceAndDestiny.<br>
-🌱 I love to learn more about unity and c#.<br>
+🌱 I love to learn more about game dev.<br>
 🎓 I have finished IT school.<br>
 📅 I work with unity everyday.<br>
-👨‍💻 I have been making games for around 2years. First with html,css,js then ct.js and now with unity.<br>
-📤 Few of my games are available on my itch.io profile.<br>
+👨‍💻 I have been making games for around 3 years. First with html,css,js then ct.js and now with unity (at work and spare time).<br>
+📤 Most of my games are available on my itch.io profile.<br>
 🎮 I really like to take part in gamejams.
 
 ---
