@@ -49,9 +49,6 @@
 <p>
         <h3 align="center">Spread</h3>
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=v82jUoOpVp4&t=5s">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
-    </a>
     <a href="https://github.com/Kosciach/Spread">
     <img src="https://img.shields.io/badge/Repository-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
     </a>
@@ -60,7 +57,8 @@
 </p>
             <p align="center">
                 My "dream game" project, I work on from time to time.<br>
-                The core idea is to create a game with my favourite features from my favourite games.
+                The core idea is to create a game with my favourite features from my favourite games.<br>
+                Two videos are available in repository readme
             </p>
 </p>
 
