@@ -59,9 +59,8 @@
     <img src="https://user-images.githubusercontent.com/97178996/256647169-fc92a88d-e0a2-436c-8141-159c41e477ac.png" width="800px"/>
 </p>
             <p align="center">
-                My most recent unity project, fullbody fps survival game, inspired by many other popular games.
-                Spread is early in development, and is currectly being refreshed.
-                Video of how this game looks like can be found on my youtube channel!
+                My "dream game" project, I work on from time to time.<br>
+                The core idea is to create a game with my favourite features from my favourite games.
             </p>
 </p>
 
